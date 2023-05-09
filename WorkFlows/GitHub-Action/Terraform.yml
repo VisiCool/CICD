@@ -1,4 +1,4 @@
-# this file to test terraform file to without creating the infrastructure.
+# This file is to test terraform files without creating the infrastructure.
 name: 'Terraform'
 
 on:
